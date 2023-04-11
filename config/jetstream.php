@@ -57,6 +57,7 @@ return [
     |
     */
 
+//TODO: Add this back in when we have a Terms and Privacy Policy page
     'features' => [
 //         Features::termsAndPrivacyPolicy(),
 //         Features::profilePhotos(),
